@@ -33,12 +33,3 @@ The dataset features four columns:
 
 ## Importance
 NER is essential for various NLP applications, including information extraction, question answering, and language understanding. This analysis aims to enhance the effectiveness of NER tasks by leveraging the biLSTM-CRF model architecture.
-
-## 🌐 Sources
-1. [github.com/alperkesen/bilstm-crf - BiLSTM-CRF Model for Named Entity Recognition](https://github.com/alperkesen/bilstm-crf)
-2. [github.com/HarmanDotpy/Named-Entity-Recognition-in-Pytorch - HarmanDotpy/Named-Entity-Recognition-in-Pytorch](https://github.com/HarmanDotpy/Named-Entity-Recognition-in-Pytorch)
-3. [github.com/sebastianruder/NLP-progress - Named entity recognition - sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress/blob/master/english/named_entity_recognition.md)
-4. [github.com/kaisugi/entity-related-papers - README.md - kaisugi/entity-related-papers](https://github.com/kaisugi/entity-related-papers/blob/main/README.md)
-5. [github.com/BillPei/LSTM-NER - BillPei/LSTM-NER: A CNN+RNN(LSTM/BiLSTM)+CRF ...](https://github.com/BillPei/LSTM-NER)
-6. [github.com/floydhub/named-entity-recognition-template - ner.ipynb - floydhub/named-entity-recognition-template](https://github.com/floydhub/named-entity-recognition-template/blob/master/ner.ipynb)
-</response>
